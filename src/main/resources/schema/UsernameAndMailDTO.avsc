@@ -7,6 +7,10 @@
     {
       "name": "mail",
       "type": "string"
+    },
+    {
+          "name": "confirmationLink",
+          "type": "string"
     }
   ],
   "name": "UsernameAndMailDTO",
